@@ -1,0 +1,10 @@
+.card {
+display: flex;
+flex-direction: row;
+border: 1px solid ;
+padding: 0.625rem;
+}
+.go {
+    background-color: rgb(76, 103, 253);
+    color: rgb(255, 255, 255);
+}
